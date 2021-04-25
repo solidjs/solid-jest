@@ -4,6 +4,8 @@ This library contains presets for SolidJS to easily get started testing with Jes
 
 ### Usage
 
+In your jest.config.js
+
 ```js
 module.exports = {
   preset: "solid-jest/preset/browser"
