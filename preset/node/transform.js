@@ -8,6 +8,7 @@ module.exports = babelJest.createTransformer({
         generate: "ssr",
         hydratable: true
       }
-    ]
+    ],
+    "@babel/preset-typescript"
   ]
-})
+});
