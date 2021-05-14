@@ -17,3 +17,5 @@ module.exports = {
   preset: "solid-jest/preset/node"
 };
 ```
+
+For the Node preset, by default ESmodules are converted to CommonJS. If you want to change this behavior, set `process.env.BABEL_CJS` to `false`.
