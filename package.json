@@ -1,6 +1,6 @@
 {
   "name": "solid-jest",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Jest presets for SolidJS",
   "author": "Ryan Carniato <ryansolid@gmail.com>",
   "homepage": "https://github.com/solidjs/solid-jest#readme",
