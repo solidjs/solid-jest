@@ -1,6 +1,6 @@
 {
   "name": "solid-jest",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Jest presets for SolidJS",
   "author": "Ryan Carniato <ryansolid@gmail.com>",
   "homepage": "https://github.com/solidui/solid-jest#readme",
@@ -19,12 +19,12 @@
     "url": "https://github.com/solidui/solid/issues"
   },
   "devDependencies": {
-    "babel-preset-solid": "^0.26.0",
+    "babel-preset-solid": "^1.0.0",
     "jest": "^26.6.3",
-    "solid-js": "^0.26.3"
+    "solid-js": "^1.0.0"
   },
   "peerDependencies": {
-    "babel-preset-solid": "*"
+    "babel-preset-solid": "^1.0.0"
   },
   "dependencies": {
     "@babel/preset-env": "^7.13.9",
