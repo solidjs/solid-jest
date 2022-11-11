@@ -29,6 +29,7 @@
   "dependencies": {
     "@babel/preset-env": "^7.13.9",
     "babel-jest": "^27.0.0",
-    "enhanced-resolve-jest": "^1.1.0"
+    "enhanced-resolve-jest": "^1.1.0",
+    "jest-environment-jsdom": "^29.3.1"
   }
 }
