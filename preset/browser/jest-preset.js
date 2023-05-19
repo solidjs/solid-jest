@@ -4,7 +4,7 @@ module.exports = {
   ...shared,
   // uses a webpack style resolver, the default one has many issues.
   resolver: require.resolve("./resolver"),
-  testEnvironment: 'jsdom',
+  testEnvironment: 'jest-environment-jsdom',
   transform: {
     "\\.[jt]sx$": require.resolve("./transform"),
     ...shared.transform
